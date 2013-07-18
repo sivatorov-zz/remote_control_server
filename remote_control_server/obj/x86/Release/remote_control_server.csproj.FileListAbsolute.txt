@@ -1,0 +1,10 @@
+C:\Documents and Settings\esivatorov\мои документы\visual studio 2010\Projects\remote_control_server\remote_control_server\bin\Release\remote_control_server.exe.config
+C:\Documents and Settings\esivatorov\мои документы\visual studio 2010\Projects\remote_control_server\remote_control_server\bin\Release\remote_control_server.exe
+C:\Documents and Settings\esivatorov\мои документы\visual studio 2010\Projects\remote_control_server\remote_control_server\bin\Release\remote_control_server.pdb
+C:\Documents and Settings\esivatorov\мои документы\visual studio 2010\Projects\remote_control_server\remote_control_server\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\esivatorov\мои документы\visual studio 2010\Projects\remote_control_server\remote_control_server\obj\x86\Release\remote_control_server.form_remote_control_server.resources
+C:\Documents and Settings\esivatorov\мои документы\visual studio 2010\Projects\remote_control_server\remote_control_server\obj\x86\Release\remote_control_server.Properties.Resources.resources
+C:\Documents and Settings\esivatorov\мои документы\visual studio 2010\Projects\remote_control_server\remote_control_server\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\esivatorov\мои документы\visual studio 2010\Projects\remote_control_server\remote_control_server\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\esivatorov\мои документы\visual studio 2010\Projects\remote_control_server\remote_control_server\obj\x86\Release\remote_control_server.exe
+C:\Documents and Settings\esivatorov\мои документы\visual studio 2010\Projects\remote_control_server\remote_control_server\obj\x86\Release\remote_control_server.pdb
